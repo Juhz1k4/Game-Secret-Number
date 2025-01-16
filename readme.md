@@ -47,16 +47,3 @@ Este projeto faz parte do curso Lógica de Programação oferecido pela Alura e 
 
 Contribua 💡
 Sinta-se à vontade para sugerir melhorias ou criar novas funcionalidades. Vamos tornar o jogo ainda mais divertido!
-
-4. **Salve o arquivo**.
-
----
-
-### **Adicionar o README.md ao Repositório**
-
-1. Abra o terminal ou prompt de comando na pasta do seu projeto.
-2. Execute os comandos:
-   ```bash
-   git add README.md
-   git commit -m "Adicionado README.md explicativo"
-   git push origin main
